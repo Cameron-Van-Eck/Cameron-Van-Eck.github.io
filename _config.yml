@@ -1,6 +1,6 @@
 title: Cameron Van Eck
 description: This is the website of Cameron Van Eck, astronomer.
 name: Cameron Van Eck
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
