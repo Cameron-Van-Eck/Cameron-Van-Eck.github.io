@@ -1,3 +1,7 @@
+# Link:
+
+[Home page](https://cameron-van-eck.github.io/)
+
 # The Dinky theme
 
 [![Build Status](https://travis-ci.org/pages-themes/dinky.svg?branch=master)](https://travis-ci.org/pages-themes/dinky) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-dinky.svg)](https://badge.fury.io/rb/jekyll-theme-dinky)
