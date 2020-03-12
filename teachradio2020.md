@@ -11,6 +11,7 @@ The course syllabus can be found [here](https://docs.google.com/document/d/1HlV7
 
 
 ### Lectures:
+Lectures will be streamed/recorded on Zoom at this link: https://dunlap.zoom.us/j/3476925434
 
 Lectures will be posted here as PDFs when available.  
 Recordings will also be posted (if I decide to record the lectures.)
