@@ -15,6 +15,8 @@ The course syllabus can be found [here](https://docs.google.com/document/d/1HlV7
 Lectures will be posted here as PDFs when available.  
 Recordings will also be posted (if I decide to record the lectures.)
 
+[Lecture 1 PDF]({% link assets/Radio_lecture1.pdf %})
+
 
 ### Assignments:
 Assignments will be posted here as they are developed.  
