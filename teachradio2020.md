@@ -16,8 +16,8 @@ Lectures will be streamed/recorded on Zoom at this link: https://dunlap.zoom.us/
 Lectures will be posted here as PDFs when available.  
 Recordings will also be posted (if I decide to record the lectures.)
 
-[Lecture 1 PDF]({% link assets/Radio_lecture1.pdf %})
-
+[Lecture 1 PDF]({% link assets/Radio_lecture1.pdf %})  
+[Lecture 1 recording](https://dunlap.zoom.us/rec/play/vZF8d7qurD43HYXG5gSDBfUsW9W0KaqsgSNMrqdYnU2yUHYHZwChZrAWZLBpj23sKUKoae9eq5B9rRwS?continueMode=true)
 
 ### Assignments:
 Assignments will be posted here as they are developed.  
