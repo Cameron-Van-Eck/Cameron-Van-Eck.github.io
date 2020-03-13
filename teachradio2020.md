@@ -16,13 +16,15 @@ Lectures will be streamed/recorded on Zoom at this link: https://dunlap.zoom.us/
 Lectures will be posted here as PDFs when available.  
 Recordings will also be posted (if I decide to record the lectures.)
 
-[Lecture 1 PDF]({% link assets/Radio_lecture1.pdf %})  
+[Lecture 1 PDF]({% link assets/radio_course/Radio_lecture1.pdf %})  
 [Lecture 1 recording](https://dunlap.zoom.us/rec/play/vZF8d7qurD43HYXG5gSDBfUsW9W0KaqsgSNMrqdYnU2yUHYHZwChZrAWZLBpj23sKUKoae9eq5B9rRwS?continueMode=true)
 
 ### Assignments:
 Assignments will be posted here as they are developed.  
 The assignments are due 1 week after the final lecture; the currently expected due date is 16 April 2020.
 Solutions will be posted here after the due date.
+
+[Exercise 1]({% link assets/radio_course/Exercise1.pdf %})
 
 ### Resources:
 ['Essential Radio Astronomy' by Condon and Ransom](https://www.cv.nrao.edu/~sransom/web/xxx.html)  
