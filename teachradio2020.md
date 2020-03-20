@@ -27,7 +27,9 @@ Assignments will be posted here as they are developed.
 The assignments are due 1 week after the final lecture; the currently expected due date is 16 April 2020.
 Solutions will be posted here after the due date.
 
-[Exercise 1]({% link assets/radio_course/Exercise1.pdf %})
+[Exercise 1]({% link assets/radio_course/Exercise1.pdf %})  
+[Exercise 2]({% link assets/radio_course/Exercise2.pdf %})
+
 
 ### Resources:
 ['Essential Radio Astronomy' by Condon and Ransom](https://www.cv.nrao.edu/~sransom/web/xxx.html)  
