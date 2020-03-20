@@ -19,6 +19,9 @@ Recordings will also be posted (if I decide to record the lectures.)
 [Lecture 1 PDF]({% link assets/radio_course/Radio_lecture1.pdf %})  
 [Lecture 1 recording](https://dunlap.zoom.us/rec/play/vZF8d7qurD43HYXG5gSDBfUsW9W0KaqsgSNMrqdYnU2yUHYHZwChZrAWZLBpj23sKUKoae9eq5B9rRwS?continueMode=true)
 
+[Lecture 2 PDF]({% link assets/radio_course/Radio_lecture2.pdf %})  
+[Lecture 2 recording](https://dunlap.zoom.us/rec/share/z-hsMJ3Tq1xJZ6PdzWScfq8oDIP1T6a82iZPqaIMmNVa6vA1_2m2xfWCfCvjCTo)
+
 ### Assignments:
 Assignments will be posted here as they are developed.  
 The assignments are due 1 week after the final lecture; the currently expected due date is 16 April 2020.
