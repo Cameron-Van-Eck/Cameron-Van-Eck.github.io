@@ -26,6 +26,7 @@ Recordings will also be posted (if I decide to record the lectures.)
 [Lecture 3 recording](https://dunlap.zoom.us/rec/play/uMB-cu-v_Gg3HIaT4wSDCvJ9W464eKKshnNIq6Bfy0-zVXJRY1SvNOYRNuGy0yFlQCTOZ2tVdn7faHpw?continueMode=true)
 
 [CASA tutorial PDF]({% link assets/radio_course/CASA_tutorial.pdf %})  
+[CASA Tutorial recording](https://dunlap.zoom.us/rec/share/otR6c4_r3ExJZ4nf2nzBeoV-Opnpaaa81CFKr_cIz07BlvxpI3pnxEVLEuwEIQOu)
 
 
 
