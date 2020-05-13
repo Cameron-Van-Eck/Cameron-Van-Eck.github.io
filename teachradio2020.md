@@ -11,10 +11,7 @@ The course syllabus can be found [here](https://docs.google.com/document/d/1HlV7
 
 
 ### Lectures:
-Lectures will be streamed/recorded on Zoom at this link: https://dunlap.zoom.us/j/3476925434
-
-Lectures will be posted here as PDFs when available.  
-Recordings will also be posted (if I decide to record the lectures.)
+The course has now ended. Lectures were streamed/recorded on Zoom for future reference; links appear below.
 
 [Lecture 1 PDF]({% link assets/radio_course/Radio_lecture1.pdf %})  
 [Lecture 1 recording](https://dunlap.zoom.us/rec/play/vZF8d7qurD43HYXG5gSDBfUsW9W0KaqsgSNMrqdYnU2yUHYHZwChZrAWZLBpj23sKUKoae9eq5B9rRwS?continueMode=true)
@@ -32,12 +29,9 @@ Recordings will also be posted (if I decide to record the lectures.)
 [Lecture 4 recording](https://dunlap.zoom.us/rec/play/vMJ4cemv_zk3E4GQtQSDU6B6W420Kvms2ycfrPQKxE6wB3NQM1L0YuYaMeqVh4Ci2lENxoquQe0XWlv8?continueMode=true)
 
 
-
-
 ### Assignments:
-Assignments will be posted here as they are developed.  
-The assignments are due 1 week after the final lecture; the currently expected due date is 16 April 2020.
-Solutions will be posted here after the due date.
+The following 2 assignments were given. The third exercise was associated with the CASA tutorial, so instructions appear in that PDF.
+Solutions are not going to be posted, because I am considering re-using these exercises in the future, but can be provided upon request.
 
 [Exercise 1]({% link assets/radio_course/Exercise1.pdf %})  
 [Exercise 2]({% link assets/radio_course/Exercise2.pdf %})
