@@ -14,19 +14,18 @@ The course syllabus can be found [here](https://docs.google.com/document/d/1HlV7
 The course has now ended. Lectures were streamed/recorded on Zoom for future reference; links appear below.
 
 [Lecture 1 PDF]({% link assets/radio_course/Radio_lecture1.pdf %})  
-[Lecture 1 recording](https://dunlap.zoom.us/rec/play/vZF8d7qurD43HYXG5gSDBfUsW9W0KaqsgSNMrqdYnU2yUHYHZwChZrAWZLBpj23sKUKoae9eq5B9rRwS?continueMode=true)
+[Lecture 1 recording](https://www.youtube.com/watch?v=qNc5rrJnRac)
 
 [Lecture 2 PDF]({% link assets/radio_course/Radio_lecture2.pdf %})  
-[Lecture 2 recording](https://dunlap.zoom.us/rec/share/z-hsMJ3Tq1xJZ6PdzWScfq8oDIP1T6a82iZPqaIMmNVa6vA1_2m2xfWCfCvjCTo)
+[Lecture 2 recording](https://www.youtube.com/watch?v=8f61FWF6SD8)
 
 [Lecture 3 PDF]({% link assets/radio_course/Radio_lecture3.pdf %})  
-[Lecture 3 recording](https://dunlap.zoom.us/rec/play/uMB-cu-v_Gg3HIaT4wSDCvJ9W464eKKshnNIq6Bfy0-zVXJRY1SvNOYRNuGy0yFlQCTOZ2tVdn7faHpw?continueMode=true)
+[Lecture 3 recording](https://www.youtube.com/watch?v=0kYjqzVXwvY)
 
 [CASA tutorial PDF]({% link assets/radio_course/CASA_tutorial.pdf %})  
-[CASA Tutorial recording](https://dunlap.zoom.us/rec/share/otR6c4_r3ExJZ4nf2nzBeoV-Opnpaaa81CFKr_cIz07BlvxpI3pnxEVLEuwEIQOu)
 
 [Lecture 4 PDF]({% link assets/radio_course/Radio_lecture4.pdf %})  
-[Lecture 4 recording](https://dunlap.zoom.us/rec/play/vMJ4cemv_zk3E4GQtQSDU6B6W420Kvms2ycfrPQKxE6wB3NQM1L0YuYaMeqVh4Ci2lENxoquQe0XWlv8?continueMode=true)
+[Lecture 4 recording](https://www.youtube.com/watch?v=cKl0RY8dJSk)
 
 
 ### Assignments:
