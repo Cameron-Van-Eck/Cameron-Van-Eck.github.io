@@ -4,5 +4,8 @@ docs:
 - title: Home
   url: /index.html
 
+- title: CV
+  url: /cv.html
+
 - title: Radio Astronomy
   url: /teachradio2020.html
