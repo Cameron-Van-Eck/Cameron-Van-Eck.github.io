@@ -2,12 +2,12 @@
 layout: default
 ---
 
-#Curriculum Vitae
+# Curriculum Vitae
 
 My full CV can be found [here]({% link assets/CV/CurriculumVitae.pdf %})
 
 
-###Academic History:
+### Academic History:
 
 I did my undergraduate and Masters studies at the University of Calgary: 
 BSc First Class Honors in Physics and Astrophysics, 2010; MSc Astrophysics 2012. 
@@ -25,7 +25,7 @@ Soon (Sep 2022) I will be moving to Australia to take up a position as research 
 the group of Prof. Naomi McClure-Griffiths.
 
 
-###Publications:
+### Publications:
 
 I keep a list of my academic publications to date on the [ADS here](https://ui.adsabs.harvard.edu/public-libraries/8SZqFmDARM6IPUsRf9Fo-Q).
 
