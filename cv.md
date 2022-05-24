@@ -4,7 +4,7 @@ layout: default
 
 #Curriculum Vitae
 
-My full CV can be found [here]({% link assets/CV/Curriculum\ Vitae.pdf %})
+My full CV can be found [here]({% link assets/CV/CurriculumVitae.pdf %})
 
 
 ###Academic History:
