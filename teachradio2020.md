@@ -38,6 +38,9 @@ Solutions are not going to be posted, because I am considering re-using these ex
 
 ### Resources:
 ['Essential Radio Astronomy' by Condon and Ransom](https://www.cv.nrao.edu/~sransom/web/xxx.html)  
+
+['Synthesis Imaging in Radio Astronomy II' (aka 'the interferometry white book')](https://leo.phys.unm.edu/~gbtaylor/astr423/s98book.pdf)
+
 'Interferometry and Synthesis in Radio Astronomy' [free PDF of textbook](https://link.springer.com/book/10.1007%2F978-3-319-44431-4)  
 'Tools of Radio Astronomy' [free PDF of textbook](https://link.springer.com/book/10.1007/978-3-540-85122-6)
 
